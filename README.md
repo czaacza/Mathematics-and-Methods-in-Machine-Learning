@@ -1,6 +1,6 @@
 # Mathematics-and-Methods-in-Machine-Learning
 Materials from Mathematics and Methods in Machine Learning and Neural Networks course as a part of Metropolia University of Applied Sciences Software Engineering field.
-
+.
 ### Project 1 - Simple data manipulation, correlation matrix
 
 [<img src="https://github.com/czaacza/Mathematics-and-Methods-in-Machine-Learning/blob/master/img/01.png" width="754" />](https://www.youtube.com/watch?v=ibjDHH2049g)
