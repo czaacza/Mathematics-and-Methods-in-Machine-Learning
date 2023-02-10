@@ -12,3 +12,18 @@ Materials from Mathematics and Methods in Machine Learning and Neural Networks c
 <img src="https://github.com/czaacza/Mathematics-and-Methods-in-Machine-Learning/blob/master/img/02a.png" width="400" />
 <img src="https://github.com/czaacza/Mathematics-and-Methods-in-Machine-Learning/blob/master/img/02b.png" width="400" />
 </p>
+
+
+
+### Project 3 - Decision trees, creating a decision tree for a given dataset
+<p float="left">
+<img src="https://github.com/czaacza/Mathematics-and-Methods-in-Machine-Learning/blob/master/img/03.png" width="754" />
+</p>
+
+
+
+### Project 4 - Linear regression, creating, prediting values and validating a model
+<p float="left">
+<img src="https://github.com/czaacza/Mathematics-and-Methods-in-Machine-Learning/blob/master/img/04a.png" width="400" />
+<img src="https://github.com/czaacza/Mathematics-and-Methods-in-Machine-Learning/blob/master/img/04b.png" width="400" />
+</p>
