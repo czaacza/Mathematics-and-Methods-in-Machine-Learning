@@ -41,3 +41,17 @@ Technologies and libraries learned while attending the course:
 <img src="https://github.com/czaacza/Mathematics-and-Methods-in-Machine-Learning/blob/master/img/04a.png" width="400" />
 <img src="https://github.com/czaacza/Mathematics-and-Methods-in-Machine-Learning/blob/master/img/04b.png" width="400" />
 </p>
+
+
+### Project 5 - Logistic regression, creating, prediting values and validating a model
+<p float="left">
+<img src="https://github.com/czaacza/Mathematics-and-Methods-in-Machine-Learning/blob/master/img/05a.png" width="400" />
+</p>
+
+
+### Project 6 - Recommendation system, kNN, SVD algorithms, collaborative filtering
+<p float="left">
+<img src="https://github.com/czaacza/Mathematics-and-Methods-in-Machine-Learning/blob/master/img/06a.png" width="400" height="200" />
+<img src="https://github.com/czaacza/Mathematics-and-Methods-in-Machine-Learning/blob/master/img/06b.png" width="400" />
+
+</p>
