@@ -1,7 +1,7 @@
 # Mathematics-and-Methods-in-Machine-Learning
 Materials from Mathematics and Methods in Machine Learning and Neural Networks course as a part of Metropolia University of Applied Sciences Software Engineering field.
 
-Technologies and libraries learned while attending the course:
+### Technologies and libraries learned while attending the course:
 - **Pandas**
 - **Numpy**
 - **Sklearn**
@@ -14,6 +14,9 @@ Technologies and libraries learned while attending the course:
   - recommendation
   - text-analysis
   - backpropagation
+  
+### Notes
+[Course notes](https://well-aphid-173.notion.site/22bcef807dc742d19d258026c87c72da?v=946e567875b9417cb8369cab626a3fd7)
 
 ### Project 1 - Simple data manipulation, correlation matrix
 
