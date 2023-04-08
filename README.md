@@ -18,6 +18,8 @@ Materials from Mathematics and Methods in Machine Learning and Neural Networks c
 ### Notes
 [Course notes](https://well-aphid-173.notion.site/22bcef807dc742d19d258026c87c72da?v=946e567875b9417cb8369cab626a3fd7)
 
+## Projects
+
 ### Project 1 - Simple data manipulation, correlation matrix
 
 [<img src="https://github.com/czaacza/Mathematics-and-Methods-in-Machine-Learning/blob/master/img/01.png" width="754" />](https://www.youtube.com/watch?v=ibjDHH2049g)
