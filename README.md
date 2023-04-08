@@ -60,3 +60,10 @@ Materials from Mathematics and Methods in Machine Learning and Neural Networks c
 <img src="https://github.com/czaacza/Mathematics-and-Methods-in-Machine-Learning/blob/master/img/06b.png" width="400" />
 
 </p>
+
+### Project 7 - Text analysis, sentiment analysis
+<p float="left">
+<img src="https://github.com/czaacza/Mathematics-and-Methods-in-Machine-Learning/blob/master/img/07a.png" width="400" height="200" />
+<img src="https://github.com/czaacza/Mathematics-and-Methods-in-Machine-Learning/blob/master/img/07b.png" width="400" />
+
+</p>
